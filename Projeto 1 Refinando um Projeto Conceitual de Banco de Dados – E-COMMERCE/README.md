@@ -6,3 +6,4 @@
 - Um cliente (seja PJ ou PF) pode ter várias formas de pagamento cadastradas e formas de pagamento de terceiros podem ser vinculadas a um cliente (Ao menos é comum de se ocorrer exceto que se seja uma condicional da empresa em questão).
 - [x]  Entrega — Possui status e código de rastreio
 - Um pedido é entregue a um cliente (seja PF ou PJ) E um cliente pode receber várias entregas.
+- .
