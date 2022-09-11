@@ -16,4 +16,3 @@
 
 Modelagem feita através das instruções da narrativa.
 
-Tentei manter o mais simples possível mas cumprindo os requisitos.
